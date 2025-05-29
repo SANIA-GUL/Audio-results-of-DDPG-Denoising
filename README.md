@@ -1,6 +1,6 @@
 # Audio-results-of-DDPG-Denoising
 
-Noisy and Estimated audios
+Noisy and Denoised audios
 
 Example#   Talker Noise   SNR
 
